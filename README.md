@@ -33,14 +33,14 @@ Edit `config.json` to your needs:
     // Each server must have unique name! For your delegate security HTTPS connection is forced!
     "servers": [
         {
-            "name": "mainnet-1 #1",
+            "name": "mainnetnode-1 #1",
             "ip": "127.0.0.1",
-            "port": 8000
+            "port": 9306
         },
         {
-            "name": "mainnet-1 #2",
+            "name": "mainnetnode-2 #2",
             "ip": "127.0.0.1",
-            "port": 8001
+            "port": 9306
         }
     ]
 }
@@ -52,7 +52,7 @@ php always-forge.php
 ```
 If it works - add to your crontab `monitor_always_forge.sh` to run every minute, for example: `crontab -e`, then insert:
 ```
-* * * * * bash /home/lisk/always-forge/monitor_always_forge.sh
+* * * * * bash /home/USERNAME/always-forge/monitor_always_forge.sh
 ```
 
 ##Enjoy increase of your delegate productivity. :)
