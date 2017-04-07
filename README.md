@@ -1,5 +1,5 @@
 # always-forge-Shift
-**AlwaysForge** is PHP forging fail-over for **Lisk** cryptocurrency. It will monitor all your nodes in real-time and switch forging to best server available. It uses active (maybe a little too aggressive) approach and best practices.
+**AlwaysForge** is PHP forging fail-over for **Shift** cryptocurrency. It will monitor all your nodes in real-time and switch forging to best server available. It uses active (maybe a little too aggressive) approach and best practices.
 
 ##Version:
 `1.0.0`
@@ -11,6 +11,7 @@ Script require **PHP** with **cURL** support and **Cron**. If you want to run it
 **Remember to add your monitor's server IP to lisk whitelist (for API and forging)!**
 
 ```
+sudo apt install php php-cli php-mbstring php-sqlite3
 git clone https://github.com/seatrips/always-forge
 cd always-forge
 cp config.json.example config.json
