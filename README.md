@@ -12,8 +12,8 @@ Script require **PHP** with **cURL** support and **Cron**. If you want to run it
 
 ```
 sudo apt install php php-cli php-mbstring php-sqlite3
-git clone https://github.com/seatrips/always-forge
-cd always-forge
+git clone https://github.com/seatrips/always-forge-Shift
+cd always-forge-Shift
 cp config.json.example config.json
 ```
 Edit `config.json` to your needs:
