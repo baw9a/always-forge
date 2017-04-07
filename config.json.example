@@ -12,14 +12,14 @@
     },
     "servers": [
         {
-            "name": "mainnet-1 #1",
+            "name": "node-1 #1",
             "ip": "127.0.0.1",
-            "port": 8000
+            "port": 9306
         },
         {
-            "name": "mainnet-1 #2",
+            "name": "node-2 #2",
             "ip": "127.0.0.1",
-            "port": 8001
+            "port": 9306
         }
     ]
 }
