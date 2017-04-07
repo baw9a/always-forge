@@ -1,4 +1,4 @@
-# always-forge
+# always-forge-Shift
 **AlwaysForge** is PHP forging fail-over for **Lisk** cryptocurrency. It will monitor all your nodes in real-time and switch forging to best server available. It uses active (maybe a little too aggressive) approach and best practices.
 
 ##Version:
