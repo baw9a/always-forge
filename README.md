@@ -11,7 +11,9 @@ Script require **PHP** with **cURL** support and **Cron**. If you want to run it
 **Remember to add your monitor's server IP to lisk whitelist (for API and forging)!**
 
 ```
+sudo apt-get insall php-curl
 sudo apt install php php-cli php-mbstring php-sqlite3
+for easy ssl use https://github.com/mrgrshift/free-ssl-shift
 git clone https://github.com/seatrips/always-forge
 cd always-forge
 cp config.json.example config.json
