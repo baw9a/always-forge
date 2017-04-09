@@ -12,7 +12,7 @@ Script require **PHP** with **cURL** support and **Cron**. If you want to run it
 
 ```
 sudo apt-get insall php-curl
-for easy ssl use https://github.com/mrgrshift/free-ssl-shift
+for easy ssl use https://github.com/mrgrshift/free-ssl-shift (for easy and fast ssl)
 git clone https://github.com/seatrips/always-forge
 cd always-forge
 cp config.json.example config.json
