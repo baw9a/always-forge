@@ -58,4 +58,5 @@ If it works - add to your crontab `monitor_always_forge.sh` to run every minute,
 ```
 
 ##Enjoy increase of your delegate productivity. :)
-Donation address: `16010222169256538112L`
+Donation address 4miners: `16010222169256538112L`
+made by 4miners, edited by seatrips for shift
