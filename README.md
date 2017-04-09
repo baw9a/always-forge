@@ -8,7 +8,7 @@
 Script require **PHP** with **cURL** support and **Cron**. If you want to run it on hosting instead of VPS - one with **SLA 99.99%** is highly recommended.
 
 ##Installation:
-**Remember to add your monitor's server IP to lisk whitelist (for API and forging)!**
+**Remember to add your monitor's server IP to Shift config whitelist (for API and forging)!**
 
 ```
 sudo apt-get insall php-curl
