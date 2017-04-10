@@ -57,6 +57,7 @@ If it works - add to your crontab `monitor_always_forge.sh` to run every minute,
 * * * * * bash /home/USERNAME/always-forge/monitor_always_forge.sh
 ```
 ##use this for logfile control
+```
 @daily > /home/seatrips/always-forge/always_forge.log
 ```
 
