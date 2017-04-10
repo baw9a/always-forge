@@ -56,6 +56,9 @@ If it works - add to your crontab `monitor_always_forge.sh` to run every minute,
 ```
 * * * * * bash /home/USERNAME/always-forge/monitor_always_forge.sh
 ```
+##use this for logfile control
+@daily > /home/seatrips/always-forge/always_forge.log
+```
 
 ##Enjoy increase of your delegate productivity. :)
 Donation address 4miners: `16010222169256538112L`
