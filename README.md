@@ -54,7 +54,7 @@ php always_forge.php
 ```
 If it works - add to your crontab `monitor_always_forge.sh` to run every minute, for example: `crontab -e`, then insert:
 ```
-* * * * * bash /home/USERNAME/always-forge/monitor_always_forge.sh
+* * * * * bash /home/seatrips/always-forge/monitor_always_forge.sh
 ```
 ##use this for logfile control
 ```
