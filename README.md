@@ -11,7 +11,7 @@ Script require **PHP** with **cURL** support and **Cron**. If you want to run it
 **Remember to add your monitor's server IP to Shift config whitelist (for API and forging)!**
 
 ```
-sudo apt-get insall php-curl
+sudo apt-get install php-curl
 git clone https://github.com/mrgrshift/free-ssl-shift (for easy ssl)
 git clone https://github.com/seatrips/always-forge
 cd always-forge
