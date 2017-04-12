@@ -60,6 +60,10 @@ If it works - add to your crontab `monitor_always_forge.sh` to run every minute,
 ```
 @daily > /home/seatrips/always-forge/always_forge.log
 ```
+##to check activity
+```
+tail -f always_forge.log | grep "Forging enabled"
+```
 
 ##Enjoy increase of your delegate productivity. :)
 Donation address 4miners: `16010222169256538112L`
