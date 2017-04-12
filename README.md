@@ -9,8 +9,8 @@ Script require **PHP** with **cURL** support and **Cron**. If you want to run it
 
 ##Installation:
 **Remember to add your monitor's server IP to Shift config whitelist (for API and forging)!**
-**Remember to remove the passphrase from your shift config.json !**
 
+/ **Remember to remove the passphrase from your shift config.json !**
 ```
 sudo apt-get install php-curl
 git clone https://github.com/mrgrshift/free-ssl-shift (for easy ssl)
