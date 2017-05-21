@@ -16,7 +16,7 @@ sudo apt-get install php-curl
 git clone https://github.com/mrgrshift/free-ssl-shift (for easy ssl)
 git clone https://github.com/seatrips/always-forge
 cd always-forge
-cp config.json.example config.json
+cp -a config.json.example config.json
 ```
 Edit `config.json` to your needs:
 ```
