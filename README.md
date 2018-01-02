@@ -13,7 +13,8 @@ Script require **PHP** with **cURL** support and **Cron**. If you want to run it
 / **Remember to remove the passphrase from your shift config.json !**
 ```
 sudo apt-get install php-curl
-git clone https://github.com/mrgrshift/free-ssl-shift (for easy ssl)
+sudo apt install php php-cli php-mbstring php-sqlite3
+git clone https://github.com/mrgrshift/free-ssl-shift (ssl, or just use my easy ssl guide)
 git clone https://github.com/seatrips/always-forge
 cd always-forge
 cp -a config.json.example config.json
