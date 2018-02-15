@@ -1,4 +1,4 @@
-# always-forge-Shift
+# always-forge-Shift / OxyCoin / Rise / Lwf
 **AlwaysForge** is PHP forging fail-over for **Shift** cryptocurrency. It will monitor all your nodes in real-time and switch forging to best server available. It uses active (maybe a little too aggressive) approach and best practices.
 
 ##Version:
@@ -39,12 +39,12 @@ Edit `config.json` to your needs:
         {
             "name": "mainnetnode-1 #1",
             "ip": "127.0.0.1",
-            "port": 9306
+            "port": 443
         },
         {
             "name": "mainnetnode-2 #2",
             "ip": "127.0.0.1",
-            "port": 9306
+            "port": 443
         }
     ]
 }
